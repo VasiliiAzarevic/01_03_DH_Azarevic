@@ -1,5 +1,6 @@
 # загружаем нужные пакеты
 library(languageR)
+install.packages("languageR")
 library(ggplot2)
 # загружаем датасет
 meta <- oldFrenchMeta
